@@ -1,2 +1,2 @@
 # timeline
-Eents Timeline
+Events Timeline
